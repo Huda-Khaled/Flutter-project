@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "494448096260",
+    "project_id": "yanabiedurar",
+    "storage_bucket": "yanabiedurar.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494448096260:android:37e848a864846ec2e47151",
+        "android_client_info": {
+          "package_name": "com.hadiasiri.yanabiedurar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-IO9oTV-67YJ5vF4_9f3JA2EymM73oXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
